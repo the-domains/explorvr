@@ -1,0 +1,28 @@
+name: explorvr
+favicon: null
+layout_spectrum: 0.7248613394331187
+typography_spectrum: 0.5201704716309905
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.028422580799087882
+  lightness: 0.3150509260594845
+  saturation: 0.8840031833387911
+  rhythmicContrast: 0.4689048854634166
+purpose: []
